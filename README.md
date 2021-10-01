@@ -1,6 +1,5 @@
 # TECH-A-THON_PREDICTING_DIABETES
 
-PROJECT 
 
 Team Details:
 
