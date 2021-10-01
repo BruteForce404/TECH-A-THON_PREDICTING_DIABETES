@@ -20,8 +20,7 @@ Project Details:
 Project Name: Predicting the disease(Diabetes)
 Theme: 	Health and Safety	
 
-Link of platform Google colab:
-https://colab.research.google.com/drive/1wzqkhxDx7n-bkb2lnCF4Xg2DsPDd3f7E#scrollTo=-UvCdy35pekV
+
 
 Problem Statement / Objective: 
 1.Prepare the data-set using several methods to train the model.
