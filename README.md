@@ -1,19 +1,7 @@
-# TECH-A-THON_PREDICTING_DIABETES
+# TECH-A-THON
 
+This project i.e , PREDICTING DIABETES , is done under Hackathon namely " TECH-A-THON" organised by ECE Society Birla Institute of Technology, Mesra Ranchi.
 
-Team Details:
-
-●	Team Name: BruteForce
-
-●	Team Members:
-○	Name:		Jayant Kumar
-○	Email Id:		btech15319.19@bitmesra.ac.in
-
-○	Name: 		Gulshan Kumar
-○	Email Id:		btech15080.19@bitmesra.ac.in
-
-○	Name: 		Neha Kumari
-○	Email Id:		btech15138.19@bitmesra.ac.in
 
 Project Details:
 
@@ -49,3 +37,19 @@ Used libraries:
 •	 train_test_split
 •	 LogisticRegression
 •	StandardScaler
+
+
+
+Team Details:
+
+●	Team Name: BruteForce
+
+●	Team Members:
+○	Name:		Jayant Kumar
+○	Email Id:		btech15319.19@bitmesra.ac.in
+
+○	Name: 		Gulshan Kumar
+○	Email Id:		btech15080.19@bitmesra.ac.in
+
+○	Name: 		Neha Kumari
+○	Email Id:		btech15138.19@bitmesra.ac.in
