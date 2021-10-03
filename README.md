@@ -47,6 +47,7 @@ Team Details:
 ●	Team Members:
 ○	Name:		Jayant Kumar
 ○	Email Id:		btech15319.19@bitmesra.ac.in
+GitHub : https://github.com/whiterhino-cell
 
 ○	Name: 		Gulshan Kumar
 ○	Email Id:		btech15080.19@bitmesra.ac.in
